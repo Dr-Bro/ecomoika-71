@@ -1,0 +1,215 @@
+-------------------------------------------------------
+-----------------------------------------------------
+---------------------------------------------------
+.меню {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 3204px;
+  z-index: 483;
+}
+.Главная__________________Услуги________________ {
+  font-size: 20.003px;
+  font-family: "Lato";
+  color: rgb(159, 255, 89);
+  font-weight: bold;
+  line-height: 3.999;
+  position: absolute;
+  left: 440.87px;
+  top: 272.202px;
+  z-index: 482;
+}
+.Прямоугольник_1_копия_3 {
+  background-color: rgb(96, 174, 28);
+  position: absolute;
+  left: 0px;
+  top: 199px;
+  width: 1920px;
+  height: 71px;
+  z-index: 481;
+}
+
+
+
+
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+.футер {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 2456px;
+  z-index: 94;
+}
+._7_4872__257_257 {
+  font-size: 20.003px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.8;
+  position: absolute;
+  left: 1053.458px;
+  top: 2289.623px;
+  z-index: 93;
+}
+.автомойка {
+  font-size: 20.003px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1;
+  text-align: center;
+  position: absolute;
+  left: 827.937px;
+  top: 2261.499px;
+  z-index: 92;
+}
+.создание_сайта {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 2456px;
+  z-index: 91;
+}
+.Создание_сайта {
+  font-size: 12.002px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 3;
+  position: absolute;
+  left: 1299.937px;
+  top: 2282.988px;
+  z-index: 89;
+}
+.защита_прав {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 2456px;
+  z-index: 87;
+}
+.Любое_использование_материала_допускается_тольк {
+  font-size: 12.002px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.5;
+  position: absolute;
+  left: 729.415px;
+  top: 2423.992px;
+  width: 457px;
+  height: 11px;
+  z-index: 86;
+}
+.©_2013__Все_права_защищены {
+  font-size: 12.002px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 3;
+  position: absolute;
+  left: 871.937px;
+  top: 2403.988px;
+  z-index: 85;
+}
+.запросить_звонок {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 2456px;
+  z-index: 81;
+}
+.Запросить_звонок {
+  font-size: 18.002px;
+  font-family: "Akrobat";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.5;
+  position: absolute;
+  left: 1076.768px;
+  top: 2331.269px;
+  z-index: 80;
+}
+.Прямоугольник__скругл__углы_1_копия_2 {
+  background-color: rgb(0, 184, 220);
+  position: absolute;
+  left: 1047px;
+  top: 2294px;
+  width: 188px;
+  height: 50px;
+  z-index: 79;
+}
+.забронировать {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 2456px;
+  z-index: 77;
+}
+.Записаться_на_мойку {
+  font-size: 18.002px;
+  font-family: "Akrobat";
+  color: rgb(1, 115, 177);
+  font-weight: bold;
+  line-height: 1.5;
+  position: absolute;
+  left: 823.768px;
+  top: 2331.269px;
+  z-index: 76;
+}
+.Прямоугольник__скругл__углы_1_копия {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 805px;
+  top: 2294px;
+  width: 188px;
+  height: 50px;
+  z-index: 75;
+}
+.бек {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 2456px;
+  z-index: 73;
+}
+.Слой_25_копия {
+  background-image: url("Слой 25 копия.png");
+  opacity: 0.2;
+  position: absolute;
+  left: 969px;
+  top: 1840px;
+  width: 951px;
+  height: 616px;
+  z-index: 72;
+}
+.Слой_25 {
+  background-image: url("Слой 25.png");
+  opacity: 0.2;
+  position: absolute;
+  left: 0px;
+  top: 1840px;
+  width: 969px;
+  height: 616px;
+  z-index: 71;
+}
+.Прямоугольник_2_копия {
+  background-color: rgb(1, 115, 177);
+  position: absolute;
+  left: 0px;
+  top: 2211px;
+  width: 1923px;
+  height: 245px;
+  z-index: 70;
+}
