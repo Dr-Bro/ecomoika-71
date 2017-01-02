@@ -213,3 +213,4145 @@
   height: 245px;
   z-index: 70;
 }
+------------------------------------------------------------
+-----------------------------------------------------------
+---------------------------------------------------------
+.фото___рыба {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 2456px;
+  z-index: 113;
+}
+.Прямоугольник__скругл__углы_3 {
+  border-radius: 25px;
+  background-color: rgb(0, 178, 221);
+  position: absolute;
+  left: 671px;
+  top: 1275px;
+  width: 578px;
+  height: 249px;
+  z-index: 111;
+}
+.Lorem_ipsum_dolor_sit_amet__consectetur_adipisi {
+  font-size: 18.002px;
+  font-family: "Lato";
+  color: rgb(41, 41, 41);
+  line-height: 1.5;
+  text-align: center;
+  position: absolute;
+  left: 420.945px;
+  top: 1567.891px;
+  width: 1068px;
+  height: 207px;
+  z-index: 110;
+}
+.Прямоугольник_2 {
+  background-color: rgb(244, 244, 244);
+  position: absolute;
+  left: -5px;
+  top: 1235px;
+  width: 1923px;
+  height: 551px;
+  z-index: 109;
+}
+
+-----------------------------------------------------------
+----------------------------------------------------------
+--------------------------------------------------------
+.блок_схема_проезда {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 2456px;
+  z-index: 107;
+}
+.адрес___иконки {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 2456px;
+  z-index: 105;
+}
+.г__Тула__ул__Октябрьская_д_301а_Телефон:__7_487 {
+  font-size: 30.004px;
+  font-family: "Lato";
+  color: rgb(41, 41, 41);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 496.964px;
+  top: 2089.83px;
+  width: 424px;
+  height: 116px;
+  z-index: 101;
+}
+.схема {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 2456px;
+  z-index: 99;
+}
+.Прямоугольник_3 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 960px;
+  top: 1826px;
+  width: 528px;
+  height: 345px;
+  z-index: 97;
+}
+-------------------------------------------------------
+--------------------------------------------------------
+--------------------------------------------------------
+.шапка {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 2456px;
+  z-index: 175;
+}
+.записаться_на_мойку {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 2456px;
+  z-index: 174;
+}
+.Записаться_на_мойку_ {
+  font-size: 14.002px;
+  font-family: "Akrobat";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 5.713;
+  position: absolute;
+  left: 1350.546px;
+  top: 204.284px;
+  z-index: 173;
+}
+.Прямоугольник__скругл__углы_1 {
+  background-color: rgb(1, 115, 177);
+  position: absolute;
+  left: 1333px;
+  top: 152px;
+  width: 155px;
+  height: 28px;
+  z-index: 172;
+}
+.запросить_звонок {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 2456px;
+  z-index: 170;
+}
+.Запросить_звонок {
+  font-size: 14.002px;
+  font-family: "Akrobat";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 5.713;
+  position: absolute;
+  left: 1359.546px;
+  top: 167.252px;
+  z-index: 169;
+}
+.Прямоугольник__скругл__углы_1 {
+  border-radius: 15px;
+  background-color: rgb(1, 115, 177);
+  position: absolute;
+  left: 1334px;
+  top: 113px;
+  width: 154px;
+  height: 29px;
+  z-index: 168;
+}
+.адрес {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 2456px;
+  z-index: 166;
+}
+.Схема_проезда {
+  font-size: 11.522px;
+  font-family: "Akrobat";
+  color: rgb(7, 165, 221);
+  font-weight: bold;
+  text-decoration: underline;
+  line-height: 2.015;
+  -moz-transform: matrix( 0.97063226201818,0,0,0.97063226201818,0,0);
+  -webkit-transform: matrix( 0.97063226201818,0,0,0.97063226201818,0,0);
+  -ms-transform: matrix( 0.97063226201818,0,0,0.97063226201818,0,0);
+  position: absolute;
+  left: 534.91px;
+  top: 176.945px;
+  width: 69.18px;
+  height: 10.356px;
+  z-index: 165;
+}
+.г__Тула__ул__Октябрьская_д__301_а {
+  font-size: 14.815px;
+  font-family: "Akrobat";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1.567;
+  -moz-transform: matrix( 0.97063226201818,0,0,0.97063226201818,0,0);
+  -webkit-transform: matrix( 0.97063226201818,0,0,0.97063226201818,0,0);
+  -ms-transform: matrix( 0.97063226201818,0,0,0.97063226201818,0,0);
+  position: absolute;
+  left: 484.711px;
+  top: 155.816px;
+  width: 168.453px;
+  height: 13.875px;
+  z-index: 164;
+}
+.время_работы {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 2456px;
+  z-index: 162;
+}
+.Пн_пт__9_00_22_00_Сб_вс__9_00_23_00 {
+  font-size: 15.228px;
+  font-family: "Akrobat";
+  color: rgb(0, 0, 0);
+  line-height: 1.525;
+  -moz-transform: matrix( 1.31255219400336,0,0,1.3010987384866,0,0);
+  -webkit-transform: matrix( 1.31255219400336,0,0,1.3010987384866,0,0);
+  -ms-transform: matrix( 1.31255219400336,0,0,1.3010987384866,0,0);
+  position: absolute;
+  left: 1002.706px;
+  top: 144.837px;
+  width: 66.465px;
+  height: 34.122px;
+  z-index: 161;
+}
+.Время_работы: {
+  font-size: 17.712px;
+  font-family: "Akrobat";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 4.517;
+  -moz-transform: matrix( 1.1284488226761,0,0,1.11860187072058,0,0);
+  -webkit-transform: matrix( 1.1284488226761,0,0,1.11860187072058,0,0);
+  -ms-transform: matrix( 1.1284488226761,0,0,1.11860187072058,0,0);
+  position: absolute;
+  left: 971.384px;
+  top: 131.028px;
+  z-index: 160;
+}
+._7_4872__257_257 {
+  font-size: 15.468px;
+  font-family: "Akrobat";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 5.172;
+  -moz-transform: matrix( 1.48714070745407,0,0,1.48714070745407,0,0);
+  -webkit-transform: matrix( 1.48714070745407,0,0,1.48714070745407,0,0);
+  -ms-transform: matrix( 1.48714070745407,0,0,1.48714070745407,0,0);
+  position: absolute;
+  left: 1348.418px;
+  top: 129.154px;
+  z-index: 157;
+}
+----------------------------------------------------------
+----------------------------------------------------------
+----------------------------------------------------------
+---------------------------------------------------------
+.таблица {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 3204px;
+  z-index: 452;
+}
+.Доп_услуга_хим_чистка__услуги_и_категории_ {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 3204px;
+  z-index: 451;
+}
+.КАТЕГОРИИ_АВТОМОБИЛЕЙ_копия {
+  font-size: 20.003px;
+  font-family: "Lato";
+  color: rgb(41, 41, 41);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1;
+  text-align: center;
+  position: absolute;
+  left: 989.86px;
+  top: 2819.499px;
+  z-index: 450;
+}
+.Прямоугольник_2_копия_32 {
+  border-width: 1px;
+  border-color: rgb(1, 115, 177);
+  border-style: solid;
+  position: absolute;
+  left: 800px;
+  top: 2778px;
+  width: 696px;
+  height: 69px;
+  z-index: 449;
+}
+.УСЛУГИ__копия {
+  font-size: 20.003px;
+  font-family: "Lato";
+  color: rgb(41, 41, 41);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1;
+  text-align: center;
+  position: absolute;
+  left: 557.938px;
+  top: 2803.999px;
+  z-index: 448;
+}
+._6_ая_кат__копия {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(41, 41, 41);
+  font-weight: bold;
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 1407.938px;
+  top: 2785.499px;
+  z-index: 447;
+}
+._5_ая_кат__копия {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(41, 41, 41);
+  font-weight: bold;
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 1288.98px;
+  top: 2785.499px;
+  z-index: 446;
+}
+._4_ая_кат__копия {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(41, 41, 41);
+  font-weight: bold;
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 1170.938px;
+  top: 2785.499px;
+  z-index: 445;
+}
+._3_ая_кат__копия {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(41, 41, 41);
+  font-weight: bold;
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 1050.98px;
+  top: 2785.499px;
+  z-index: 444;
+}
+._2_ая_кат__копия {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(41, 41, 41);
+  font-weight: bold;
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 932.916px;
+  top: 2785.499px;
+  z-index: 443;
+}
+._1_ая_кат__копия {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(41, 41, 41);
+  font-weight: bold;
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 814.051px;
+  top: 2785.499px;
+  z-index: 442;
+}
+.Прямоугольник_2_копия_31 {
+  border-width: 1px;
+  border-color: rgb(1, 115, 177);
+  border-style: solid;
+  position: absolute;
+  left: 1385px;
+  top: 2778px;
+  width: 111px;
+  height: 33px;
+  z-index: 441;
+}
+.Прямоугольник_2_копия_31 {
+  border-width: 1px;
+  border-color: rgb(1, 115, 177);
+  border-style: solid;
+  position: absolute;
+  left: 1267px;
+  top: 2778px;
+  width: 117px;
+  height: 33px;
+  z-index: 440;
+}
+.Прямоугольник_2_копия_31 {
+  border-width: 1px;
+  border-color: rgb(1, 115, 177);
+  border-style: solid;
+  position: absolute;
+  left: 1149px;
+  top: 2778px;
+  width: 117px;
+  height: 33px;
+  z-index: 439;
+}
+.Прямоугольник_2_копия_31 {
+  border-width: 1px;
+  border-color: rgb(1, 115, 177);
+  border-style: solid;
+  position: absolute;
+  left: 1031px;
+  top: 2778px;
+  width: 117px;
+  height: 33px;
+  z-index: 438;
+}
+.Прямоугольник_2_копия_31 {
+  border-width: 1px;
+  border-color: rgb(1, 115, 177);
+  border-style: solid;
+  position: absolute;
+  left: 911px;
+  top: 2778px;
+  width: 119px;
+  height: 33px;
+  z-index: 437;
+}
+.Прямоугольник_2_копия_31 {
+  border-width: 1px;
+  border-color: rgb(1, 115, 177);
+  border-style: solid;
+  position: absolute;
+  left: 800px;
+  top: 2778px;
+  width: 696px;
+  height: 33px;
+  z-index: 436;
+}
+.Прямоугольник_2_копия_31 {
+  border-width: 1px;
+  border-color: rgb(1, 115, 177);
+  border-style: solid;
+  background-color: rgb(224, 251, 204);
+  position: absolute;
+  left: 418px;
+  top: 2778px;
+  width: 1078px;
+  height: 69px;
+  z-index: 435;
+}
+.Полная_химчистка_салона_______комплекс_люкс_в_п {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 427.865px;
+  top: 2740.507px;
+  z-index: 434;
+}
+.Химчистка_облицовки_багажника {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 435.937px;
+  top: 2697.544px;
+  z-index: 433;
+}
+.Химчистка_задней_полки {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 435.937px;
+  top: 2660.551px;
+  z-index: 432;
+}
+.Химчистка_панели_приборов {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 435.938px;
+  top: 2627.544px;
+  z-index: 431;
+}
+.Химчистка_облицовки_двери_1шт_ {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 435.937px;
+  top: 2595.544px;
+  z-index: 430;
+}
+.Химчистка_потолка {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 435.937px;
+  top: 2538.499px;
+  z-index: 429;
+}
+.Химчистка_мягких_ковриков_4_шт_ {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 435.937px;
+  top: 2519.544px;
+  z-index: 428;
+}
+.Химчистка_сидения_1_шт_ {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 434.937px;
+  top: 2484.544px;
+  z-index: 427;
+}
+.Химчистка_пола {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 435.938px;
+  top: 2432.499px;
+  z-index: 426;
+}
+._5000_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1290.35px;
+  top: 2750.252px;
+  z-index: 425;
+}
+._4500_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1171.938px;
+  top: 2750.252px;
+  z-index: 424;
+}
+._4500_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1052.938px;
+  top: 2750.252px;
+  z-index: 423;
+}
+._4000_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 935.938px;
+  top: 2750.252px;
+  z-index: 422;
+}
+._3500_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 816.35px;
+  top: 2750.252px;
+  z-index: 421;
+}
+.по_дог_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1417.937px;
+  top: 2749.252px;
+  z-index: 420;
+}
+._600_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1293.937px;
+  top: 2697.252px;
+  z-index: 419;
+}
+._550_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1175.35px;
+  top: 2697.252px;
+  z-index: 418;
+}
+._550_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1057.35px;
+  top: 2697.252px;
+  z-index: 417;
+}
+._500_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 939.35px;
+  top: 2697.252px;
+  z-index: 416;
+}
+._450_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 820.937px;
+  top: 2697.252px;
+  z-index: 415;
+}
+._600_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1412.937px;
+  top: 2697.252px;
+  z-index: 414;
+}
+._180_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1293.786px;
+  top: 2661.252px;
+  z-index: 413;
+}
+._150_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1175.786px;
+  top: 2661.252px;
+  z-index: 412;
+}
+._150_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1057.786px;
+  top: 2661.252px;
+  z-index: 411;
+}
+._150_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 939.786px;
+  top: 2661.252px;
+  z-index: 410;
+}
+._150руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 822.786px;
+  top: 2661.252px;
+  z-index: 409;
+}
+._180_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1412.786px;
+  top: 2661.252px;
+  z-index: 408;
+}
+._240_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1294.294px;
+  top: 2626.252px;
+  z-index: 407;
+}
+._220_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1175.294px;
+  top: 2626.252px;
+  z-index: 406;
+}
+._220_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1057.294px;
+  top: 2626.252px;
+  z-index: 405;
+}
+._200_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 939.294px;
+  top: 2626.252px;
+  z-index: 404;
+}
+._200_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 820.294px;
+  top: 2626.252px;
+  z-index: 403;
+}
+._240_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1413.294px;
+  top: 2626.252px;
+  z-index: 402;
+}
+._250_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1294.294px;
+  top: 2594.252px;
+  z-index: 401;
+}
+._200_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1175.294px;
+  top: 2594.252px;
+  z-index: 400;
+}
+._200_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1057.294px;
+  top: 2594.252px;
+  z-index: 399;
+}
+._200_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 939.294px;
+  top: 2594.252px;
+  z-index: 398;
+}
+._150_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 820.786px;
+  top: 2594.252px;
+  z-index: 397;
+}
+._250_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1413.294px;
+  top: 2594.252px;
+  z-index: 396;
+}
+._900_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1293.937px;
+  top: 2556.252px;
+  z-index: 395;
+}
+._800_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1174.937px;
+  top: 2556.252px;
+  z-index: 394;
+}
+._800_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1056.937px;
+  top: 2556.252px;
+  z-index: 393;
+}
+._700_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 938.871px;
+  top: 2556.252px;
+  z-index: 392;
+}
+._600руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 822.937px;
+  top: 2556.252px;
+  z-index: 391;
+}
+._900_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1412.937px;
+  top: 2556.252px;
+  z-index: 390;
+}
+._200_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1294.294px;
+  top: 2520.252px;
+  z-index: 389;
+}
+._200_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1175.294px;
+  top: 2520.252px;
+  z-index: 388;
+}
+._200_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1057.294px;
+  top: 2520.252px;
+  z-index: 387;
+}
+._200_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 939.294px;
+  top: 2520.252px;
+  z-index: 386;
+}
+._200_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 820.294px;
+  top: 2520.252px;
+  z-index: 385;
+}
+._200_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1413.294px;
+  top: 2520.252px;
+  z-index: 384;
+}
+._250_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1294.294px;
+  top: 2485.252px;
+  z-index: 383;
+}
+._250_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1175.294px;
+  top: 2485.252px;
+  z-index: 382;
+}
+._250_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1057.294px;
+  top: 2485.252px;
+  z-index: 381;
+}
+._250_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 939.294px;
+  top: 2485.252px;
+  z-index: 380;
+}
+._250_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 820.294px;
+  top: 2485.252px;
+  z-index: 379;
+}
+._250_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1413.294px;
+  top: 2485.252px;
+  z-index: 378;
+}
+._700руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1296.871px;
+  top: 2450.252px;
+  z-index: 377;
+}
+._650руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1177.937px;
+  top: 2450.252px;
+  z-index: 376;
+}
+._650руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1059.937px;
+  top: 2450.252px;
+  z-index: 375;
+}
+._600руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 941.937px;
+  top: 2450.252px;
+  z-index: 374;
+}
+._500руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 823.35px;
+  top: 2450.252px;
+  z-index: 373;
+}
+._700руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1415.871px;
+  top: 2450.252px;
+  z-index: 372;
+}
+.ХИМЧИСТКА {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(41, 41, 41);
+  font-weight: bold;
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 899.938px;
+  top: 2396.499px;
+  z-index: 371;
+}
+.Прямоугольник_2_копия_28 {
+  border-width: 1px;
+  border-color: rgb(1, 115, 177);
+  border-style: solid;
+  background-color: rgb(224, 251, 204);
+  position: absolute;
+  left: 418px;
+  top: 2388px;
+  width: 1078px;
+  height: 34px;
+  z-index: 370;
+}
+.Прямоугольник_2_копия_29 {
+  background-color: rgb(207, 246, 255);
+  position: absolute;
+  left: 418px;
+  top: 2424px;
+  width: 1080px;
+  height: 36px;
+  z-index: 369;
+}
+.Прямоугольник_2_копия_29 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 418px;
+  top: 2600px;
+  width: 1080px;
+  height: 36px;
+  z-index: 368;
+}
+.Прямоугольник_2_копия_29 {
+  background-color: rgb(207, 246, 255);
+  position: absolute;
+  left: 418px;
+  top: 2635px;
+  width: 1080px;
+  height: 36px;
+  z-index: 367;
+}
+.Прямоугольник_2_копия_29 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 418px;
+  top: 2530px;
+  width: 1080px;
+  height: 36px;
+  z-index: 366;
+}
+.Прямоугольник_2_копия_29 {
+  background-color: rgb(207, 246, 255);
+  position: absolute;
+  left: 418px;
+  top: 2565px;
+  width: 1080px;
+  height: 36px;
+  z-index: 365;
+}
+.Прямоугольник_2_копия_29 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 418px;
+  top: 2459px;
+  width: 1080px;
+  height: 36px;
+  z-index: 364;
+}
+.Прямоугольник_2_копия_29 {
+  background-color: rgb(207, 246, 255);
+  position: absolute;
+  left: 418px;
+  top: 2494px;
+  width: 1080px;
+  height: 36px;
+  z-index: 363;
+}
+.Прямоугольник_2_копия_30 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 418px;
+  top: 2671px;
+  width: 1080px;
+  height: 36px;
+  z-index: 362;
+}
+.Прямоугольник_2_копия_30 {
+  background-color: rgb(207, 246, 255);
+  position: absolute;
+  left: 418px;
+  top: 2707px;
+  width: 1080px;
+  height: 71px;
+  z-index: 361;
+}
+.доп_услуга_салон {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 3204px;
+  z-index: 359;
+}
+.Дополнительные_услуги {
+  font-size: 20.003px;
+  font-family: "Lato";
+  color: rgb(41, 41, 41);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1;
+  text-align: center;
+  position: absolute;
+  left: 798.94px;
+  top: 1246.196px;
+  z-index: 358;
+}
+.Обработка_кожи_дверей_кондиционером__1шт__ {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 435.937px;
+  top: 1783.544px;
+  z-index: 357;
+}
+.Обработка_кожи_сидений_кондиционером__1шт__ {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 436.938px;
+  top: 1712.544px;
+  z-index: 356;
+}
+.Мойка_лобового_стекла {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 436.938px;
+  top: 1650.499px;
+  z-index: 355;
+}
+.Мойка_стекол {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 436.937px;
+  top: 1615.499px;
+  z-index: 354;
+}
+.Полировка_багажника {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 436.937px;
+  top: 1598.544px;
+  z-index: 353;
+}
+.Полировка_торпедо {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 435.937px;
+  top: 1561.507px;
+  z-index: 352;
+}
+.Полировкка_пластика {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 435.938px;
+  top: 1525.507px;
+  z-index: 351;
+}
+.Влажн__уборка_багажника_ {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 436.938px;
+  top: 1492.544px;
+  z-index: 350;
+}
+.Влажн__уборка_салона_ {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 435.937px;
+  top: 1457.544px;
+  z-index: 349;
+}
+.Пылесос_багажника_ {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 436.938px;
+  top: 1403.499px;
+  z-index: 348;
+}
+.Пылесос_пола_ {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 436.938px;
+  top: 1367.499px;
+  z-index: 347;
+}
+.Пылесос_салона_ {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 436.937px;
+  top: 1332.499px;
+  z-index: 346;
+}
+.Мойка_ковриков_1шт__багажника {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 436.937px;
+  top: 1316.544px;
+  z-index: 345;
+}
+.по_дог__копия {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1418.937px;
+  top: 1595.252px;
+  z-index: 344;
+}
+._70_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1298.872px;
+  top: 1792.252px;
+  z-index: 343;
+}
+._60_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1181.938px;
+  top: 1792.252px;
+  z-index: 342;
+}
+._50_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1061.35px;
+  top: 1792.252px;
+  z-index: 341;
+}
+._40_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 946.938px;
+  top: 1792.252px;
+  z-index: 340;
+}
+._30_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 824.35px;
+  top: 1792.252px;
+  z-index: 339;
+}
+._100_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1294.786px;
+  top: 1721.252px;
+  z-index: 338;
+}
+._90_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1181.938px;
+  top: 1721.252px;
+  z-index: 337;
+}
+._80_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1061.938px;
+  top: 1721.252px;
+  z-index: 336;
+}
+._70_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 945.872px;
+  top: 1721.252px;
+  z-index: 335;
+}
+._60_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 823.938px;
+  top: 1721.252px;
+  z-index: 334;
+}
+._90_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1298.938px;
+  top: 1668.252px;
+  z-index: 333;
+}
+._80_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1181.938px;
+  top: 1668.252px;
+  z-index: 332;
+}
+._70_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1061.872px;
+  top: 1668.252px;
+  z-index: 331;
+}
+._60_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 945.938px;
+  top: 1668.252px;
+  z-index: 330;
+}
+._50_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 824.35px;
+  top: 1668.252px;
+  z-index: 329;
+}
+._160_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1294.786px;
+  top: 1633.252px;
+  z-index: 328;
+}
+._140_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1176.786px;
+  top: 1633.252px;
+  z-index: 327;
+}
+._130_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1057.786px;
+  top: 1633.252px;
+  z-index: 326;
+}
+._120_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 940.786px;
+  top: 1633.252px;
+  z-index: 325;
+}
+._100_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 819.786px;
+  top: 1633.252px;
+  z-index: 324;
+}
+._90_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1298.938px;
+  top: 1597.252px;
+  z-index: 323;
+}
+._80_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1181.938px;
+  top: 1597.252px;
+  z-index: 322;
+}
+._60_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1061.938px;
+  top: 1597.252px;
+  z-index: 321;
+}
+._60_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 945.938px;
+  top: 1597.252px;
+  z-index: 320;
+}
+._50_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 824.35px;
+  top: 1597.252px;
+  z-index: 319;
+}
+._70_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1417.872px;
+  top: 1792.252px;
+  z-index: 318;
+}
+._90_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1417.938px;
+  top: 1721.252px;
+  z-index: 317;
+}
+._120_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1413.786px;
+  top: 1668.252px;
+  z-index: 316;
+}
+._300_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1413.35px;
+  top: 1633.252px;
+  z-index: 315;
+}
+._180_руб__копия {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1413.786px;
+  top: 1562.252px;
+  z-index: 314;
+}
+._120_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1294.786px;
+  top: 1562.252px;
+  z-index: 313;
+}
+._110_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1176.786px;
+  top: 1562.252px;
+  z-index: 312;
+}
+._100_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1057.786px;
+  top: 1562.252px;
+  z-index: 311;
+}
+._90_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 945.938px;
+  top: 1562.252px;
+  z-index: 310;
+}
+._80_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 823.938px;
+  top: 1562.252px;
+  z-index: 309;
+}
+._180_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1413.786px;
+  top: 1526.252px;
+  z-index: 308;
+}
+._90_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1417.938px;
+  top: 1491.252px;
+  z-index: 307;
+}
+._200_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1294.294px;
+  top: 1526.252px;
+  z-index: 306;
+}
+._180_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1176.786px;
+  top: 1526.252px;
+  z-index: 305;
+}
+._170_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1057.786px;
+  top: 1526.252px;
+  z-index: 304;
+}
+._150_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 940.786px;
+  top: 1526.252px;
+  z-index: 303;
+}
+._140_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 819.786px;
+  top: 1526.252px;
+  z-index: 302;
+}
+._80_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1298.938px;
+  top: 1491.252px;
+  z-index: 301;
+}
+._70_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1181.872px;
+  top: 1491.252px;
+  z-index: 300;
+}
+._60_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1061.938px;
+  top: 1491.252px;
+  z-index: 299;
+}
+._60_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 945.938px;
+  top: 1491.252px;
+  z-index: 298;
+}
+._50_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 824.35px;
+  top: 1491.252px;
+  z-index: 297;
+}
+._200_руб__копия {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1413.294px;
+  top: 1456.252px;
+  z-index: 296;
+}
+._170_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1294.786px;
+  top: 1456.252px;
+  z-index: 295;
+}
+._150_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1176.786px;
+  top: 1456.252px;
+  z-index: 294;
+}
+._140_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1057.786px;
+  top: 1456.252px;
+  z-index: 293;
+}
+._120_руб__копия {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 940.786px;
+  top: 1456.252px;
+  z-index: 292;
+}
+._100руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 821.786px;
+  top: 1456.252px;
+  z-index: 291;
+}
+._110_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1413.786px;
+  top: 1421.252px;
+  z-index: 290;
+}
+._100_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1294.786px;
+  top: 1421.252px;
+  z-index: 289;
+}
+._90_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1181.938px;
+  top: 1421.252px;
+  z-index: 288;
+}
+._80_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1061.938px;
+  top: 1421.252px;
+  z-index: 287;
+}
+._70_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 945.872px;
+  top: 1421.252px;
+  z-index: 286;
+}
+._60_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 823.938px;
+  top: 1421.252px;
+  z-index: 285;
+}
+._120_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1413.786px;
+  top: 1385.252px;
+  z-index: 284;
+}
+._100_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1294.786px;
+  top: 1385.252px;
+  z-index: 283;
+}
+._90_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1181.938px;
+  top: 1385.252px;
+  z-index: 282;
+}
+._80_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1061.938px;
+  top: 1385.252px;
+  z-index: 281;
+}
+._80_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 945.938px;
+  top: 1385.252px;
+  z-index: 280;
+}
+._70_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 823.872px;
+  top: 1385.252px;
+  z-index: 279;
+}
+._200_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1413.294px;
+  top: 1350.252px;
+  z-index: 278;
+}
+._180_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1294.786px;
+  top: 1350.252px;
+  z-index: 277;
+}
+._160_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1176.786px;
+  top: 1350.252px;
+  z-index: 276;
+}
+._150_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1057.786px;
+  top: 1350.252px;
+  z-index: 275;
+}
+._120_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 940.786px;
+  top: 1350.252px;
+  z-index: 274;
+}
+._110_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 819.786px;
+  top: 1350.252px;
+  z-index: 273;
+}
+._10_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1418.787px;
+  top: 1315.252px;
+  z-index: 272;
+}
+._10_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1299.787px;
+  top: 1315.252px;
+  z-index: 271;
+}
+._10_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1181.787px;
+  top: 1315.252px;
+  z-index: 270;
+}
+._10_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1062.787px;
+  top: 1315.252px;
+  z-index: 269;
+}
+._10_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 945.787px;
+  top: 1315.252px;
+  z-index: 268;
+}
+._10_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 824.787px;
+  top: 1315.252px;
+  z-index: 267;
+}
+.САЛОН {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(41, 41, 41);
+  font-weight: bold;
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 924.938px;
+  top: 1261.499px;
+  z-index: 266;
+}
+.Прямоугольник_2_копия_17 {
+  background-color: rgb(207, 246, 255);
+  position: absolute;
+  left: 418px;
+  top: 1289px;
+  width: 1080px;
+  height: 36px;
+  z-index: 265;
+}
+.Прямоугольник_2_копия_21 {
+  background-color: rgb(207, 246, 255);
+  position: absolute;
+  left: 418px;
+  top: 1749px;
+  width: 1080px;
+  height: 71px;
+  z-index: 264;
+}
+.Прямоугольник_2_копия_20 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 418px;
+  top: 1678px;
+  width: 1080px;
+  height: 71px;
+  z-index: 263;
+}
+.Прямоугольник_2_копия_20 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 418px;
+  top: 1607px;
+  width: 1080px;
+  height: 36px;
+  z-index: 262;
+}
+.Прямоугольник_2_копия_19 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 418px;
+  top: 1536px;
+  width: 1080px;
+  height: 36px;
+  z-index: 261;
+}
+.Прямоугольник_2_копия_19 {
+  background-color: rgb(207, 246, 255);
+  position: absolute;
+  left: 418px;
+  top: 1571px;
+  width: 1080px;
+  height: 36px;
+  z-index: 260;
+}
+.Прямоугольник_2_копия_19 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 418px;
+  top: 1465px;
+  width: 1080px;
+  height: 36px;
+  z-index: 259;
+}
+.Прямоугольник_2_копия_19 {
+  background-color: rgb(207, 246, 255);
+  position: absolute;
+  left: 418px;
+  top: 1500px;
+  width: 1080px;
+  height: 36px;
+  z-index: 258;
+}
+.Прямоугольник_2_копия_18 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 418px;
+  top: 1395px;
+  width: 1080px;
+  height: 36px;
+  z-index: 257;
+}
+.Прямоугольник_2_копия_18 {
+  background-color: rgb(207, 246, 255);
+  position: absolute;
+  left: 418px;
+  top: 1430px;
+  width: 1080px;
+  height: 36px;
+  z-index: 256;
+}
+.Прямоугольник_2_копия_17 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 418px;
+  top: 1324px;
+  width: 1080px;
+  height: 36px;
+  z-index: 255;
+}
+.Прямоугольник_2_копия_17 {
+  background-color: rgb(207, 246, 255);
+  position: absolute;
+  left: 418px;
+  top: 1359px;
+  width: 1080px;
+  height: 36px;
+  z-index: 254;
+}
+.Прямоугольник_2_копия_16 {
+  background-color: rgb(207, 246, 255);
+  position: absolute;
+  left: 418px;
+  top: 1289px;
+  width: 1080px;
+  height: 36px;
+  z-index: 253;
+}
+.Прямоугольник_2_копия_16 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 418px;
+  top: 1324px;
+  width: 1080px;
+  height: 36px;
+  z-index: 252;
+}
+.Прямоугольник_2_копия_16 {
+  background-color: rgb(207, 246, 255);
+  position: absolute;
+  left: 418px;
+  top: 1359px;
+  width: 1080px;
+  height: 36px;
+  z-index: 251;
+}
+.Прямоугольник_2_копия_15 {
+  border-width: 1px;
+  border-color: rgb(1, 115, 177);
+  border-style: solid;
+  background-color: rgb(224, 251, 204);
+  position: absolute;
+  left: 418px;
+  top: 1220px;
+  width: 1078px;
+  height: 67px;
+  z-index: 250;
+}
+.Услуги_и_категории {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 3204px;
+  z-index: 248;
+}
+.УСЛУГИ_ {
+  font-size: 20.003px;
+  font-family: "Lato";
+  color: rgb(41, 41, 41);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1;
+  text-align: center;
+  position: absolute;
+  left: 557.938px;
+  top: 752.999px;
+  z-index: 247;
+}
+._6_ая_кат_ {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(41, 41, 41);
+  font-weight: bold;
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 1407.938px;
+  top: 770.499px;
+  z-index: 246;
+}
+._5_ая_кат_ {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(41, 41, 41);
+  font-weight: bold;
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 1288.98px;
+  top: 770.499px;
+  z-index: 245;
+}
+._4_ая_кат_ {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(41, 41, 41);
+  font-weight: bold;
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 1170.938px;
+  top: 770.499px;
+  z-index: 244;
+}
+._3_ая_кат_ {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(41, 41, 41);
+  font-weight: bold;
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 1050.98px;
+  top: 770.499px;
+  z-index: 243;
+}
+._2_ая_кат_ {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(41, 41, 41);
+  font-weight: bold;
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 932.916px;
+  top: 770.499px;
+  z-index: 242;
+}
+.Комплексная_мойка__Люкс_:___комплексная_мойка__ {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 437.937px;
+  top: 1070.61px;
+  width: 247px;
+  height: 159px;
+  z-index: 241;
+}
+.Комплексная_мойка:___бесконтактная_мойка_кузова {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 437.937px;
+  top: 936.555px;
+  width: 255px;
+  height: 111px;
+  z-index: 240;
+}
+.Бесконтактная_мойка {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 434.938px;
+  top: 876.499px;
+  z-index: 239;
+}
+.Экспресс_мойка {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 435.468px;
+  top: 859.551px;
+  z-index: 238;
+}
+.по_дог_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1418.937px;
+  top: 1157.252px;
+  z-index: 237;
+}
+._1500_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1289.787px;
+  top: 1158.252px;
+  z-index: 236;
+}
+._1300_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1171.787px;
+  top: 1158.252px;
+  z-index: 235;
+}
+._1200_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1052.787px;
+  top: 1158.252px;
+  z-index: 234;
+}
+._1000_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 935.787px;
+  top: 1158.252px;
+  z-index: 233;
+}
+._800_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 819.937px;
+  top: 1158.252px;
+  z-index: 232;
+}
+._800_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1412.937px;
+  top: 979.252px;
+  z-index: 231;
+}
+._750_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1293.871px;
+  top: 979.252px;
+  z-index: 230;
+}
+._650_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1175.937px;
+  top: 979.252px;
+  z-index: 229;
+}
+._600_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1056.937px;
+  top: 979.252px;
+  z-index: 228;
+}
+._550_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 939.35px;
+  top: 979.252px;
+  z-index: 227;
+}
+._500_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 820.35px;
+  top: 979.252px;
+  z-index: 226;
+}
+._600_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1412.937px;
+  top: 894.252px;
+  z-index: 225;
+}
+._500_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1294.35px;
+  top: 894.252px;
+  z-index: 224;
+}
+._450_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1176.937px;
+  top: 894.252px;
+  z-index: 223;
+}
+._400_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1058.937px;
+  top: 894.252px;
+  z-index: 222;
+}
+._350_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 939.35px;
+  top: 894.252px;
+  z-index: 221;
+}
+._330_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 820.35px;
+  top: 894.252px;
+  z-index: 220;
+}
+._350_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1413.35px;
+  top: 859.252px;
+  z-index: 219;
+}
+._300_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1294.35px;
+  top: 859.252px;
+  z-index: 218;
+}
+._250_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1176.294px;
+  top: 859.252px;
+  z-index: 217;
+}
+._250_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1057.294px;
+  top: 859.252px;
+  z-index: 216;
+}
+._230_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 939.294px;
+  top: 859.252px;
+  z-index: 215;
+}
+._200_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 820.294px;
+  top: 859.252px;
+  z-index: 214;
+}
+._250_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1413.294px;
+  top: 826.252px;
+  z-index: 213;
+}
+._200_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1294.294px;
+  top: 824.252px;
+  z-index: 212;
+}
+._180_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1176.786px;
+  top: 824.252px;
+  z-index: 211;
+}
+._170_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1057.786px;
+  top: 824.252px;
+  z-index: 210;
+}
+._150_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 939.786px;
+  top: 824.252px;
+  z-index: 209;
+}
+._120_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 820.786px;
+  top: 824.252px;
+  z-index: 208;
+}
+.Сбить_грязь {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 435.938px;
+  top: 825.544px;
+  z-index: 207;
+}
+._1_ая_кат_ {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(41, 41, 41);
+  font-weight: bold;
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 814.051px;
+  top: 770.499px;
+  z-index: 206;
+}
+.КАТЕГОРИИ_АВТОМОБИЛЕЙ {
+  font-size: 20.003px;
+  font-family: "Lato";
+  color: rgb(41, 41, 41);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1;
+  text-align: center;
+  position: absolute;
+  left: 989.86px;
+  top: 734.499px;
+  z-index: 205;
+}
+.Прямоугольник_2_копия_4 {
+  background-color: rgb(207, 246, 255);
+  position: absolute;
+  left: 418px;
+  top: 798px;
+  width: 1080px;
+  height: 36px;
+  z-index: 204;
+}
+.Прямоугольник_2_копия_13 {
+  border-width: 1px;
+  border-color: rgb(1, 115, 177);
+  border-style: solid;
+  position: absolute;
+  left: 1385px;
+  top: 763px;
+  width: 111px;
+  height: 33px;
+  z-index: 203;
+}
+.Прямоугольник_2_копия_8 {
+  border-width: 1px;
+  border-color: rgb(1, 115, 177);
+  border-style: solid;
+  position: absolute;
+  left: 1267px;
+  top: 763px;
+  width: 117px;
+  height: 33px;
+  z-index: 202;
+}
+.Прямоугольник_2_копия_7 {
+  border-width: 1px;
+  border-color: rgb(1, 115, 177);
+  border-style: solid;
+  position: absolute;
+  left: 1149px;
+  top: 763px;
+  width: 117px;
+  height: 33px;
+  z-index: 201;
+}
+.Прямоугольник_2_копия_6 {
+  border-width: 1px;
+  border-color: rgb(1, 115, 177);
+  border-style: solid;
+  position: absolute;
+  left: 1031px;
+  top: 763px;
+  width: 117px;
+  height: 33px;
+  z-index: 200;
+}
+.Прямоугольник_2_копия_5 {
+  border-width: 1px;
+  border-color: rgb(1, 115, 177);
+  border-style: solid;
+  position: absolute;
+  left: 911px;
+  top: 763px;
+  width: 119px;
+  height: 33px;
+  z-index: 199;
+}
+.Прямоугольник_2_копия_11 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 418px;
+  top: 904px;
+  width: 1080px;
+  height: 134px;
+  z-index: 198;
+}
+.Прямоугольник_2_копия_9 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 418px;
+  top: 833px;
+  width: 1080px;
+  height: 36px;
+  z-index: 197;
+}
+.Прямоугольник_2_копия_12 {
+  background-color: rgb(207, 246, 255);
+  position: absolute;
+  left: 418px;
+  top: 1038px;
+  width: 1080px;
+  height: 182px;
+  z-index: 196;
+}
+.Прямоугольник_2_копия_10 {
+  background-color: rgb(207, 246, 255);
+  position: absolute;
+  left: 418px;
+  top: 868px;
+  width: 1080px;
+  height: 36px;
+  z-index: 195;
+}
+.Прямоугольник_2_копия_3 {
+  border-width: 1px;
+  border-color: rgb(1, 115, 177);
+  border-style: solid;
+  position: absolute;
+  left: 800px;
+  top: 763px;
+  width: 696px;
+  height: 33px;
+  z-index: 194;
+}
+.Прямоугольник_2_копия_2 {
+  border-width: 1px;
+  border-color: rgb(1, 115, 177);
+  border-style: solid;
+  position: absolute;
+  left: 800px;
+  top: 727px;
+  width: 696px;
+  height: 70px;
+  z-index: 193;
+}
+.Прямоугольник_2 {
+  border-width: 1px;
+  border-color: rgb(1, 115, 177);
+  border-style: solid;
+  background-color: rgb(224, 251, 204);
+  position: absolute;
+  left: 418px;
+  top: 727px;
+  width: 1078px;
+  height: 69px;
+  z-index: 192;
+}
+.доп_услуга_агрегаты {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 3204px;
+  z-index: 190;
+}
+.Обработка_двер__Уплотнителей_силиконом {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: left;
+  position: absolute;
+  left: 437.937px;
+  top: 2354.544px;
+  z-index: 189;
+}
+.Обработка_замков_смазкой {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 436.937px;
+  top: 2306.544px;
+  z-index: 188;
+}
+.Мойка_двигателя {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 436.938px;
+  top: 2269.551px;
+  z-index: 187;
+}
+._80_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1298.938px;
+  top: 2357.252px;
+  z-index: 186;
+}
+._80_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1179.938px;
+  top: 2357.252px;
+  z-index: 185;
+}
+._70_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1061.872px;
+  top: 2357.252px;
+  z-index: 184;
+}
+._60_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 943.938px;
+  top: 2357.252px;
+  z-index: 183;
+}
+._50_руб__копия_2 {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 825.35px;
+  top: 2357.252px;
+  z-index: 182;
+}
+._80_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1417.938px;
+  top: 2357.252px;
+  z-index: 181;
+}
+._50_руб__копия {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1299.35px;
+  top: 2308.252px;
+  z-index: 180;
+}
+._50_руб__копия {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1180.35px;
+  top: 2308.252px;
+  z-index: 179;
+}
+._50_руб__копия {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1062.35px;
+  top: 2308.252px;
+  z-index: 178;
+}
+._50_руб__копия {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 944.35px;
+  top: 2308.252px;
+  z-index: 177;
+}
+._50_руб__копия {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 825.35px;
+  top: 2308.252px;
+  z-index: 176;
+}
+._50_руб__копия {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1418.35px;
+  top: 2308.252px;
+  z-index: 175;
+}
+._450_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1294.937px;
+  top: 2273.252px;
+  z-index: 174;
+}
+._400_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1176.937px;
+  top: 2273.252px;
+  z-index: 173;
+}
+._350_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1057.35px;
+  top: 2273.252px;
+  z-index: 172;
+}
+._300_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 939.35px;
+  top: 2273.252px;
+  z-index: 171;
+}
+._280_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 820.294px;
+  top: 2273.252px;
+  z-index: 170;
+}
+._400_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1413.937px;
+  top: 2273.252px;
+  z-index: 169;
+}
+.Прямоугольник_2_копия_26 {
+  background-color: rgb(207, 246, 255);
+  position: absolute;
+  left: 418px;
+  top: 2246px;
+  width: 1080px;
+  height: 36px;
+  z-index: 168;
+}
+.Прямоугольник_2_копия_26 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 418px;
+  top: 2281px;
+  width: 1080px;
+  height: 36px;
+  z-index: 167;
+}
+.АГРЕГАТЫ {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(41, 41, 41);
+  font-weight: bold;
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 913.937px;
+  top: 2217.999px;
+  z-index: 166;
+}
+.Прямоугольник_2_копия_26 {
+  border-width: 1px;
+  border-color: rgb(1, 115, 177);
+  border-style: solid;
+  background-color: rgb(224, 251, 204);
+  position: absolute;
+  left: 418px;
+  top: 2210px;
+  width: 1078px;
+  height: 34px;
+  z-index: 165;
+}
+.Прямоугольник_2_копия_27 {
+  background-color: rgb(207, 246, 255);
+  position: absolute;
+  left: 418px;
+  top: 2317px;
+  width: 1080px;
+  height: 71px;
+  z-index: 164;
+}
+.доп_услуга_кузов {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 3204px;
+  z-index: 162;
+}
+.Мойка_днища {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 436.937px;
+  top: 2092.551px;
+  z-index: 161;
+}
+.Удаление_следов_насекомых_ {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 438.938px;
+  top: 2058.544px;
+  z-index: 160;
+}
+.Удаление_битумн__пятен__1_эл___ {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 437.937px;
+  top: 2023.544px;
+  z-index: 159;
+}
+.Чернение_пластиковых_деталей {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 437.937px;
+  top: 1987.551px;
+  z-index: 158;
+}
+.Продувка_автомобиля {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 437.937px;
+  top: 1952.544px;
+  z-index: 157;
+}
+.Обработка_жидким_кварцем {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 437.937px;
+  top: 1918.544px;
+  z-index: 156;
+}
+.Обработка_горячим_воском {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 436.937px;
+  top: 1883.544px;
+  z-index: 155;
+}
+._100_руб__копия_3 {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1295.786px;
+  top: 2093.252px;
+  z-index: 154;
+}
+._100_руб__копия_3 {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1177.786px;
+  top: 2093.252px;
+  z-index: 153;
+}
+._80_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1060.938px;
+  top: 2093.252px;
+  z-index: 152;
+}
+._80_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 945.938px;
+  top: 2093.252px;
+  z-index: 151;
+}
+._80_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 823.938px;
+  top: 2093.252px;
+  z-index: 150;
+}
+._100_руб__копия_3 {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1413.786px;
+  top: 2093.252px;
+  z-index: 149;
+}
+._100_руб__копия_2 {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1294.786px;
+  top: 2058.252px;
+  z-index: 148;
+}
+._100_руб__копия_2 {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1177.786px;
+  top: 2058.252px;
+  z-index: 147;
+}
+._100_руб__копия_2 {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1056.786px;
+  top: 2058.252px;
+  z-index: 146;
+}
+._100_руб__копия_2 {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 940.786px;
+  top: 2058.252px;
+  z-index: 145;
+}
+._100_руб__копия_2 {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 819.786px;
+  top: 2058.252px;
+  z-index: 144;
+}
+._100_руб__копия_2 {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1413.786px;
+  top: 2058.252px;
+  z-index: 143;
+}
+._100_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1294.786px;
+  top: 2023.252px;
+  z-index: 142;
+}
+._100_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1177.786px;
+  top: 2023.252px;
+  z-index: 141;
+}
+._100_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1056.786px;
+  top: 2023.252px;
+  z-index: 140;
+}
+._100_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 940.786px;
+  top: 2023.252px;
+  z-index: 139;
+}
+._100_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 819.786px;
+  top: 2023.252px;
+  z-index: 138;
+}
+._100_руб__копия {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1413.786px;
+  top: 2023.252px;
+  z-index: 137;
+}
+._80_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1298.938px;
+  top: 1952.252px;
+  z-index: 136;
+}
+._80_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1181.938px;
+  top: 1952.252px;
+  z-index: 135;
+}
+.По_договоренности {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1076.937px;
+  top: 1989.252px;
+  z-index: 134;
+}
+._70_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1060.872px;
+  top: 1952.252px;
+  z-index: 133;
+}
+._60_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 945.938px;
+  top: 1952.252px;
+  z-index: 132;
+}
+._60_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 823.938px;
+  top: 1952.252px;
+  z-index: 131;
+}
+._100_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1413.786px;
+  top: 1952.252px;
+  z-index: 130;
+}
+._450_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1294.937px;
+  top: 1917.252px;
+  z-index: 129;
+}
+._400_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1177.937px;
+  top: 1917.252px;
+  z-index: 128;
+}
+._350_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1056.35px;
+  top: 1917.252px;
+  z-index: 127;
+}
+._300_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 941.35px;
+  top: 1917.252px;
+  z-index: 126;
+}
+._250_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 819.294px;
+  top: 1917.252px;
+  z-index: 125;
+}
+._500_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1413.35px;
+  top: 1917.252px;
+  z-index: 124;
+}
+._330_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1294.35px;
+  top: 1882.252px;
+  z-index: 123;
+}
+._300_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1177.35px;
+  top: 1882.252px;
+  z-index: 122;
+}
+._270_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1056.294px;
+  top: 1882.252px;
+  z-index: 121;
+}
+._250_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 941.294px;
+  top: 1882.252px;
+  z-index: 120;
+}
+._200_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 819.294px;
+  top: 1882.252px;
+  z-index: 119;
+}
+._350_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1413.35px;
+  top: 1882.252px;
+  z-index: 118;
+}
+.КУЗОВ {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(41, 41, 41);
+  font-weight: bold;
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 927.937px;
+  top: 1828.499px;
+  z-index: 117;
+}
+.Прямоугольник_2_копия_22 {
+  border-width: 1px;
+  border-color: rgb(1, 115, 177);
+  border-style: solid;
+  background-color: rgb(224, 251, 204);
+  position: absolute;
+  left: 418px;
+  top: 1820px;
+  width: 1078px;
+  height: 34px;
+  z-index: 116;
+}
+.Прямоугольник_2_копия_23 {
+  background-color: rgb(207, 246, 255);
+  position: absolute;
+  left: 418px;
+  top: 1856px;
+  width: 1080px;
+  height: 36px;
+  z-index: 115;
+}
+.Прямоугольник_2_копия_23 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 418px;
+  top: 2032px;
+  width: 1080px;
+  height: 36px;
+  z-index: 114;
+}
+.Прямоугольник_2_копия_23 {
+  background-color: rgb(207, 246, 255);
+  position: absolute;
+  left: 418px;
+  top: 2067px;
+  width: 1080px;
+  height: 36px;
+  z-index: 113;
+}
+.Прямоугольник_2_копия_23 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 418px;
+  top: 1962px;
+  width: 1080px;
+  height: 36px;
+  z-index: 112;
+}
+.Прямоугольник_2_копия_23 {
+  background-color: rgb(207, 246, 255);
+  position: absolute;
+  left: 418px;
+  top: 1997px;
+  width: 1080px;
+  height: 36px;
+  z-index: 111;
+}
+.Прямоугольник_2_копия_23 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 418px;
+  top: 1891px;
+  width: 1080px;
+  height: 36px;
+  z-index: 110;
+}
+.Прямоугольник_2_копия_23 {
+  background-color: rgb(207, 246, 255);
+  position: absolute;
+  left: 418px;
+  top: 1926px;
+  width: 1080px;
+  height: 36px;
+  z-index: 109;
+}
+.доп_услуга_колеса {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 3204px;
+  z-index: 107;
+}
+.Очистка_диска_1шт_ {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 436.938px;
+  top: 2200.544px;
+  z-index: 106;
+}
+.Чернение_колес_ {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 436.938px;
+  top: 2164.544px;
+  z-index: 105;
+}
+._50_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1300.35px;
+  top: 2200.252px;
+  z-index: 104;
+}
+._50_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1182.35px;
+  top: 2200.252px;
+  z-index: 103;
+}
+._50_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1061.35px;
+  top: 2200.252px;
+  z-index: 102;
+}
+._50_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 946.35px;
+  top: 2200.252px;
+  z-index: 101;
+}
+._50_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 824.35px;
+  top: 2200.252px;
+  z-index: 100;
+}
+._50_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1418.35px;
+  top: 2200.252px;
+  z-index: 99;
+}
+._120_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1295.786px;
+  top: 2165.252px;
+  z-index: 98;
+}
+._120_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1177.786px;
+  top: 2165.252px;
+  z-index: 97;
+}
+._100_руб__копия_4 {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1056.786px;
+  top: 2165.252px;
+  z-index: 96;
+}
+._100_руб__копия_4 {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 941.786px;
+  top: 2165.252px;
+  z-index: 95;
+}
+._100_руб__копия_4 {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 819.786px;
+  top: 2165.252px;
+  z-index: 94;
+}
+._120_руб_ {
+  font-size: 14.002px;
+  font-family: "Lato";
+  color: rgb(0, 91, 140);
+  line-height: 1.428;
+  text-align: center;
+  position: absolute;
+  left: 1413.786px;
+  top: 2165.252px;
+  z-index: 93;
+}
+.Прямоугольник_2_копия_25 {
+  background-color: rgb(207, 246, 255);
+  position: absolute;
+  left: 418px;
+  top: 2139px;
+  width: 1080px;
+  height: 36px;
+  z-index: 92;
+}
+.Прямоугольник_2_копия_25 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 418px;
+  top: 2174px;
+  width: 1080px;
+  height: 36px;
+  z-index: 91;
+}
+.КОЛЕСА {
+  font-size: 16.002px;
+  font-family: "Lato";
+  color: rgb(41, 41, 41);
+  font-weight: bold;
+  line-height: 1.25;
+  text-align: center;
+  position: absolute;
+  left: 920.937px;
+  top: 2111.499px;
+  z-index: 90;
+}
+.Прямоугольник_2_копия_24 {
+  border-width: 1px;
+  border-color: rgb(1, 115, 177);
+  border-style: solid;
+  background-color: rgb(224, 251, 204);
+  position: absolute;
+  left: 418px;
+  top: 2103px;
+  width: 1078px;
+  height: 34px;
+  z-index: 89;
+}

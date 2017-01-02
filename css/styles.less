@@ -2,12 +2,34 @@ body{
 	text-align: center;
 	font-family: "Lato";
 }
+
+header{
+	    padding-top: 30px;
+	.clock{
+		img{
+			float: left;
+		}
+	}
+	.btn{
+		background-color: rgb(1, 115, 177);
+		color: white;
+		border-radius: 50px;
+		padding: 5px 15px;
+		font-family: "Akrobat";
+		&:hover{
+			background-color:white;
+			color: rgb(1, 115, 177);
+			border-color: rgb(1, 115, 177);
+		}
+
+	}
+}
 nav{
 	ul{
 		background-color: rgb(96, 174, 28);
 		li{
 			display:inline-block;
-			padding: 0px 55px;
+			padding: 0px 45px;
 			font-weight: bold;
 			line-height: 3.999;
 			font-size: 20.003px;
@@ -17,11 +39,128 @@ nav{
 			}
 		}
 	}
+	.navbar-header{
+		background-color: rgb(96, 174, 28);
+	}
+	.navbar-brand{
+		color: white;
+	}
+	.navbar-collapse{
+		padding: 0;
+		border: none;
+		text-align: center;
+		.nav{
+			@media screen and  (min-width: 1200px ) {
+				
+			padding-left: 120px;
+			}
+		}
+		.navbar-nav{
+			float: none;
+		}
+	}
+}
+.uslugi{
+		margin-left: 8.3%;
+	div{
+		@media screen and (min-width: 1200px) {
+		width: 22.7%;
+		}
+	}
+}
+.infotext{
+	 background-color: rgb(244, 244, 244);
 }
 
 
+.contacts{
+	i{
+		color: rgb(96, 174, 28);
+		margin-right: 5px;
+
+	}
+}
+
+.cars{
+	margin: 10px 0px;
+}
+
+#imgslider{
+	@media screen and (max-width: 620px) {
+		width: 300px;
+	}
+}
+.yandexmap{
+	ymaps:first-child{
+		@media screen and (max-width: 480px){
+		width: 250px;
+		}
+}
+}
+
+table{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border:1px solid black;
+	width: 90%;
+	border-collapse: collapse;
+	 color: rgb(0, 91, 140);
+	 font-family: "Lato";
+	 margin-left: 5%;
+
+	tr{
+		border:1px solid;
+		td,th{
+		border:1px solid;
+		text-align: center;
+		}
+		th{
+			border-color: rgb(1, 115, 177);
+			background-color: rgb(224, 251, 204);
+			font-weight: bold;
+			color: black;
+			font-size: 20.003px;
+		}
+		&:nth-child(odd){
+			background-color: rgb(207, 246, 255);
+		}
+	}
+}
+
 footer{
+	    padding-top: 30px;
 	color: rgb(255, 255, 255);
-	background: url('../img/footer.png') cover;
+	background: url('../img/footer.png');
+	background-size: contain;
 	min-height: 245px;
+	@media screen and (max-width: 480px) {
+		p{
+			display: none;
+		}
+		.copyrigth{
+			display: block;
+		}
+		.logo{
+			display: block;
+		}
+	}
+	.btn{
+		background-color: rgb(0, 184, 220);
+		border-radius: 50px;
+		&:hover{
+			background-color:white;
+			color: rgb(1, 115, 177);
+		}
+	}
+
+	.logo{
+		@media screen and (max-width: 480px) {
+			img{
+				width: 200px;
+			}
+			p{
+				display: none;
+			}
+		}
+	}
 }
