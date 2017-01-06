@@ -8,7 +8,7 @@
 	<link href="css/bootstrap-theme.css" rel="stylesheet">
 	<link href="css/font-awesome.css" rel="stylesheet">
 	<link href="css/styles.css" rel="stylesheet">
-	<script src="http://code.jquery.com/jquery-latest.js"></script>
+	<script src="js/jquery-3.0.0.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/bootstrap-carousel.js"></script>
 	<title>Экомойка71</title>
@@ -16,21 +16,21 @@
 <body>
 <header>
 <div class="container-fluid">
-    <div class="col-lg-5 col-md-5 col-xs-12">
+    <div class="col-lg-5 col-md-5  col-sm-5  col-xs-12">
       <p><img src="img/logo.png" alt=""></p>
       <p><strong>г.Тула, ул. Октябрьская д.301 а</strong></p>
       <p><a href="#contacts">Схема проезда</a></p>
     </div>
-    <div class="col-lg-2 col-md-2 col-xs-12 clock">
+    <div class="col-lg-2 col-md-3 col-sm-3 col-xs-12 clock">
     	<p class="hidden-xs"><img src="img/clock.png" alt=""></p>
     	<p><strong>Время работы:</strong></p>
     	<p>Круглосуточно</p>
     </div>
-    <div class="col-lg-5 col-md-5 col-xs-12">
+    <div class="col-lg-5 col-md-4 col-sm-4 col-xs-12">
     	<p class="visible-xs"><strong>Контактный телефон:</strong></p>
     	<p><strong>+7(4872) 257-257</strong></p>
-    	<p class="col-xs-6"><a class="btn">Запросить звонок</a></p>
-    	<p class="col-xs-6"><a class="btn">Записаться на мойку</a></p>
+    	<p class="col-xs-6 col-sm-12 col-lg-12"><a class="btn">Запросить звонок</a></p>
+    	<p class="col-xs-6 col-sm-12 col-lg-12"><a class="btn">Записаться на мойку</a></p>
     </div>
   </div>
 </header>
@@ -57,28 +57,30 @@
 </nav>
 <div class="wrap">
 	<div class="content">
-		<div class="container">
+		<div class="container col-lg-12">
 			<h2>Услуги автомойки</h2>
-			<img src="img/splits.png" alt="" class="hidden-xs">
+			<img src="img/splits.png" alt="" class="hidden-xs hidden-sm">
+			<img src="img/stripes1.png" alt="" class="hidden-xs hidden-md hidden-lg">
 		</div>
-		<div class="container-fluid uslugi ">
-			<div class="col-lg-3 col-md-3 ">
+		<div class="container uslugi ">
+			<div class="col-lg-3 col-md-3 col-sm-6">
 				<p><img src="img/washing.png" alt=""></p>
 				<p><strong>мойка</strong></p>
 				<p>Для мойки автомобилей мы используем только самые качественные моющие средства, они не только отмывают,но и защищают ваш автомобиль, благодаря этому, Вам прийдется реже заезжать на мойку.</p>
 			</div>
-			<div class="col-lg-3 col-md-3">
+			<div class="col-lg-3 col-md-3 col-sm-6">
 				<p><img src="img/himka.png" alt=""></p>
 				<p><strong>химчистка</strong></p>
 				<p>Мы применяем только безопасные средства для здоровья человека и самые продвинутые технологии в химчистке.Все наши уже оценили качество мойки 
 и рекомендуют нас друзьям.</p>
 			</div>
-			<div class="col-lg-3 col-md-3">
+			<img src="img/stripes2.png" alt="" class="hidden-xs hidden-md hidden-lg">
+			<div class="col-lg-3 col-md-3 col-sm-6">
 				<p><img src="img/polirovka.png" alt=""></p>
 				<p><strong>полировка</strong></p>
 				<p>Специалисты нашей автомойки прекрасно знают свою работу и за считанные минуты вернут блеск Вашему автомобилю.</p>
 			</div>
-			<div class="col-lg-3 col-md-3">
+			<div class="col-lg-3 col-md-3 col-sm-6">
 				<p><img src="img/cleaning.png" alt=""></p>
 				<p><strong>чистка салона</strong></p>
 				<p>Мы готовы вычистить Ваш салон от пыли и грязи, сделав интерьер автомобиля чище и свежее.</p>
@@ -86,7 +88,7 @@
 		</div>
 		<div class="container-fluid">
 		<div class="infotext">
-			<div class="container col-xs-12"><img id= "imgslider" src="img/neSYvncWELQ.jpg" alt="" width="500px" ></div>
+<!-- 			<div class="container col-xs-12"><img id= "imgslider" src="img/neSYvncWELQ.jpg" alt="" width="500px" ></div>
 			<div id="myCarousel" class="carousel slide">
 			<div class="carousel-inner">
 			<div class="active item">…</div>
@@ -96,17 +98,54 @@
 			<a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
 			<a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
 			</div>
+ -->
+
+<div id="testCarousel" class="carousel slide" data-ride="carousel">
+	<!-- Индикаторы карусели -->
+	<ol class="carousel-indicators">
+		<li data-target="#testCarousel" data-slide-to="0" ></li>
+		<li data-target="#testCarousel" data-slide-to="1" class="active"></li>
+		<li data-target="#testCarousel" data-slide-to="2"></li>
+	</ol>
+
+	<!-- Слайды карусели -->
+	<div class="carousel-inner">
+		<!-- Слайд 1 -->
+		<div class="item ">
+			<img src="img/neSYvncWELQ.jpg" alt="..." width="500px">
+		</div>
+		<!-- Слайд 2 -->
+		<div class="item active">
+			<img src="img/neSYvncWELQ.jpg" alt="..." width="500px">
+		</div>
+		<!-- Слайд 3 -->
+		<div class="item">
+			<img src="img/neSYvncWELQ.jpg" alt="..." width="500px">
+		</div>
+	</div>
+
+	<!-- Навигация карусели (следующий или предыдущий слайд) -->
+	<a class="left carousel-control" href="#testCarousel" role="button" data-slide="prev">
+		<span class="glyphicon glyphicon-chevron-left"></span>
+	</a>
+	<a class="right carousel-control" href="#testCarousel" role="button" data-slide="next">
+		<span class="glyphicon glyphicon-chevron-right"></span>
+	</a>
+</div>
+
+
+
 		<p>Современная автомойка премиум класса на 3 бокса с круглосуточным режимом работы. Большая вместимость, премиум качество, система скидок и бонусов постоянным клиентам, вежливый персонал. Ждём Вас!</p>
 		</div>
-		</div>
+	</div>
 		<div id="contacts" class="container contacts">
-			<div class="col-lg-6">
+			<div class="col-lg-6 col-sm-6">
 				<p><img id="minilogo" src="img/logo-list.png" alt=""></p>
 				<p><i class="fa fa-map-marker fa-2x" aria-hidden="true"></i>г.Тула, ул. Октябрьская д 301а</p>
 				<p><i class="fa fa-mobile fa-2x" aria-hidden="true"></i>Телефон: +7(4872) 257-257</p>
 				<p><i class="fa fa-envelope fa-2x" aria-hidden="true"></i>E-mail: info@ecomoila71.ru</p>
 			</div>
-			<div class="col-lg-6 col-xs-12 yandexmap">
+			<div class="col-lg-6 col-xs-12  col-sm-6 yandexmap">
 				<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=FdGXkYygCgT-TSAYd5V269QeFnaN8flF&amp;width=500&amp;height=400&amp;lang=ru_RU&amp;sourceType=constructor&amp;scroll=true"></script>
 			</div>
 		</div>
@@ -114,21 +153,21 @@
 </div>
 <footer>
 	<div class="container-fluid">
-    <div class="col-lg-4 logo">
+    <div class="col-lg-4 col-sm-4 logo">
       <p><img src="img/logo-footer.png" alt=""></p>
       <p class="hidden-xs">г.Тула, ул. Октябрьская д.301 а</p>
     </div>
-    <div class="col-lg-2 col-xs-6">
+    <div class="col-lg-2 col-xs-6 col-sm-2">
     	<p class="hidden-xs">Автомойка</p>
 	    <p class="btn col-xs-6">Записаться на мойку</p>
 	    <p class="visible-xs">Любое использование материала допускается только с согласия редакции.</p>
     </div>
-    <div class="col-lg-2 col-xs-6">
+    <div class="col-lg-2 col-xs-6 col-sm-2">
     	<p class="hidden-xs">+7(4872) 257-257</p>
  		<p class="btn col-xs-6">Запросить звонок</p>    	
  		<p class="visible-xs">© 2013. Все права <br>защищены</p>    	
     </div>
-    <div class="col-lg-4 copyrigth hidden-xs">
+    <div class="col-lg-4 col-sm-4 copyrigth hidden-xs">
     	<p><img src="img/vektor.png" alt=""></p>
     </div>
   </div>
