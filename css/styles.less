@@ -202,8 +202,9 @@ footer{
 		@media screen and  (max-width: 320px ) {
 				font-size: 13px;
 				padding: 4px 3px;
-				width: 125px;
+				width: auto;
 				margin-right: 5px;
+
 			}
 	}
 
@@ -217,4 +218,27 @@ footer{
 			}
 		}
 	}
+}
+
+
+
+
+
+.modal {
+  text-align: center;
+}
+
+@media screen and (min-width: 768px) { 
+  .modal:before {
+    display: inline-block;
+    vertical-align: middle;
+    content: " ";
+    height: 100%;
+  }
+}
+
+.modal-dialog {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
 }
