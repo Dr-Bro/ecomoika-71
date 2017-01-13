@@ -11,13 +11,14 @@
 	<script src="js/jquery-3.0.0.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/bootstrap-carousel.js"></script>
-	<title>Экомойка71</title>
+    <script src="js/form.js"></script>
+	<title>Экомойка-71</title>
 </head>
 <body>
 <header>
 <div class="container-fluid">
     <div class="col-lg-5 col-md-5  col-sm-5  col-xs-12">
-      <p><img src="img/logo.png" alt=""></p>
+      <p><a href="index.html"><img src="img/logo.png" alt=""></a></p>
       <p><strong>г.Тула, ул. Октябрьская д.301 а</strong></p>
       <p><a href="#contacts">Схема проезда</a></p>
     </div>
@@ -29,8 +30,8 @@
     <div class="col-lg-5 col-md-4 col-sm-4 col-xs-12">
     	<p class="visible-xs"><strong>Контактный телефон:</strong></p>
     	<p><strong>+7(4872) 257-257</strong></p>
-    	<p class="col-xs-6 col-sm-12 col-lg-12"><a class="btn">Запросить звонок</a></p>
-    	<p class="col-xs-6 col-sm-12 col-lg-12"><a class="btn">Записаться на мойку</a></p>
+    	<p class="col-xs-6 col-sm-12 col-lg-12"><a class="btn" onclick="callback()">Запросить звонок</a></p>
+    	<p class="col-xs-6 col-sm-12 col-lg-12"><a class="btn" href="http://257-257.ru">Записаться на мойку</a></p>
     </div>
   </div>
 </header>
@@ -48,11 +49,11 @@
 	</div>
 	<div id="navbarCollapse" class="collapse navbar-collapse">
 	<ul class="nav navbar-nav">
-		<li>Главная</li>
-		<li>Услуги</li>
-		<li>Юридическим лицам</li>
-		<li>Программа лояльности</li>
-		<li>Контакты</li>
+		<a href=""><li>Главная</li></a>
+		<a href="uslugi.html"><li>Услуги</li></a>
+		<a href="uridicheskim.html"><li>Юридическим лицам</li></a>
+		<a href="programs.html"><li>Программа лояльности</li></a>
+		<a href="contacts.html"><li>Контакты</li></a>
 	</ul>
 </div>
 </nav>
@@ -87,7 +88,7 @@
 				<p>Мы готовы вычистить Ваш салон от пыли и грязи, сделав интерьер автомобиля чище и свежее.</p>
 			</div>
 		</div>
-		<div class="container-fluid">
+		<div class="container-fluid infotext-container">
 		<div class="infotext">
 <!-- 			<div class="container col-xs-12"><img id= "imgslider" src="img/neSYvncWELQ.jpg" alt="" width="500px" ></div>
 			<div id="myCarousel" class="carousel slide">
@@ -155,21 +156,21 @@
 <footer>
 	<div class="container-fluid">
     <div class="col-lg-4 col-sm-4 logo">
-      <p><img src="img/logo-footer.png" alt=""></p>
+      <p><a href="index.html"><img src="img/logo-footer.png" alt=""></a></p>
       <p class="hidden-xs">г.Тула, ул. Октябрьская д.301 а</p>
     </div>
     <div class="col-lg-2 col-xs-6 col-sm-2">
     	<p class="hidden-xs">Автомойка</p>
-	    <p class="btn col-xs-6">Записаться на мойку</p>
+	    <p class="btn col-xs-6"><a  href="http://257-257.ru">Записаться на мойку</a></p>
 	    <p class="visible-xs">Любое использование материала допускается только с согласия редакции.</p>
     </div>
     <div class="col-lg-2 col-xs-6 col-sm-2">
     	<p class="hidden-xs">+7(4872) 257-257</p>
- 		<p class="btn col-xs-6">Запросить звонок</p>    	
+ 		<p class="btn col-xs-6" onclick="callback()">Запросить звонок</p>    	
  		<p class="visible-xs">© 2013. Все права <br>защищены</p>    	
     </div>
     <div class="col-lg-4 col-sm-4 copyrigth hidden-xs">
-    	<p><img src="img/vektor.png" alt=""></p>
+    	<p><a href="http://webtop10.info"><img src="img/vektor.png" alt=""></a></p>
     </div>
   </div>
 
@@ -207,11 +208,6 @@
       </div>
     </div>
      
-    <!-- Скрипт, вызывающий модальное окно после загрузки страницы -->
-    <script>
-      $(document).ready(function() {
-        $("#myModalBox").modal('show');
-      });
-    </script>	
+
 </body>
 </html>
