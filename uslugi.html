@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0,user-scalable=no">
 	<link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
 	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/bootstrap-theme.css" rel="stylesheet">
@@ -26,11 +26,11 @@
     <div class="col-lg-2 col-md-3 col-sm-3 col-xs-12 clock">
     	<p class="hidden-xs"><img src="img/clock.png" alt=""></p>
     	<p><strong>Время работы:</strong></p>
-    	<p>Круглосуточно</p>
+    	<p class="timework">Круглосуточно</p>
     </div>
     <div class="col-lg-5 col-md-4 col-sm-4 col-xs-12">
     	<p class="visible-xs"><strong>Контактный телефон:</strong></p>
-    	<p><strong>+7(4872) 257-257</strong></p>
+    	<p class="phone"><strong>+7(4872) 257-257</strong></p>
     	<p class="col-xs-6 col-sm-12 col-lg-12"><a class="btn" onclick="callback()">Запросить звонок</a></p>
     	<p class="col-xs-6 col-sm-12 col-lg-12"><a class="btn" href="http://257-257.ru">Записаться на мойку</a></p>
     </div>
@@ -60,10 +60,10 @@
 </nav>
 <div class="wrap">
 	<div class="content">
-	<div class="container hidden-xs hidden-md">
+	<div class="container hidden-xs hidden-sm hidden-md">
 		Каждый автовладелец старается поддерживать чистоту в салоне своего авто, к сожалению, даже при должном уходе, в салон попадает пыль, грязный снег, на светлых сидениях появляются следы краски от одежды, не говоря, о том, что в машине часто разливают различные жидкости, от сладкой газировки до антифриза. Многие загрязнения отчистить самостоятельно бывает сложно. Мы предлагаем профессиональную химчистку салона, к каждому автомобилю у нас индивидуальный подход, вы можете заказать, как комплексную химчистку всего салона авто, так и локальную, в зависимости от пожеланий клиента.
 	</div>
-		<div class="container-fluid cars hidden-xs">
+		<div class="container-fluid cars hidden-xs hidden-sm">
 		<img src="img/auto.png" alt="">
 		<table>
 <th rowspan="2">УСЛУГИ </th>
@@ -2044,6 +2044,27 @@
   </div>
 
 </footer>
+<footer2 class="visible-sm">
+	<div class="container-fluid">
+    <div class="col-lg-4  logo">
+      <p><a href="index.html"><img src="img/logo-footer.png" alt=""></a></p>
+      <p class="hidden-xs hidden-sm">г.Тула, ул. Октябрьская д.301 а</p>
+    </div>
+    <div class="col-lg-2 col-xs-6 col-sm-6">
+    	<p class="hidden-xs hidden-sm">Автомойка</p>
+	    <p class="btn col-xs-6"><a  href="http://257-257.ru">Записаться на мойку</a></p>
+	    <p class="visible-xs visible-sm">Любое использование материала допускается только с согласия редакции.</p>
+    </div>
+    <div class="col-lg-2 col-xs-6 col-sm-6">
+    	<p class="hidden-xs hidden-sm">+7(4872) 257-257</p>
+ 		<p class="btn col-xs-6" onclick="callback()">Запросить звонок</p>    	
+ 		<p class="visible-xs visible-sm">© 2013. Все права <br>защищены</p>    	
+    </div>
+    <div class="col-lg-4 col-sm-4 copyrigth hidden-xs hidden-sm">
+    	<p><a href="http://webtop10.info"><img src="img/vektor.png" alt=""></a></p>
+    </div>
+  </div>
+</footer2>
 
     <!-- HTML-код модального окна -->
     <div id="myModalBox" class="modal fade">
