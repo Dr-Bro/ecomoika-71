@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
 	<link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
 	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/bootstrap-theme.css" rel="stylesheet">
@@ -25,12 +25,12 @@
     <div class="col-lg-2 col-md-3 col-sm-3 col-xs-12 clock">
     	<p class="hidden-xs"><img src="img/clock.png" alt=""></p>
     	<p><strong>Время работы:</strong></p>
-    	<p>Круглосуточно</p>
+    	<p class="timework">Круглосуточно</p>
     </div>
     <div class="col-lg-5 col-md-4 col-sm-4 col-xs-12">
     	<p class="visible-xs"><strong>Контактный телефон:</strong></p>
-    	<p><strong>+7(4872) 257-257</strong></p>
-    	<p class="col-xs-6 col-sm-12 col-lg-12"><a class="btn" onclick="callback()">Запросить звонок</a></p>
+    	<p class="phone"><a href="tel:+7487257257"><strong>+7(4872) 257-257</strong></a></p>
+    	<!-- <p class="col-xs-6 col-sm-12 col-lg-12"><a class="btn" onclick="callback()">Запросить звонок</a></p> -->
     	<p class="col-xs-6 col-sm-12 col-lg-12"><a class="btn" href="http://257-257.ru">Записаться на мойку</a></p>
     </div>
   </div>
@@ -68,19 +68,19 @@
 			<div class="col-lg-3 col-md-6 col-sm-6">
 				<p><img src="img/washing.png" alt=""></p>
 				<p><strong>мойка</strong></p>
-				<p>Для мойки автомобилей мы используем только самые качественные моющие средства, они не только отмывают,но и защищают ваш автомобиль, благодаря этому, Вам прийдется реже заезжать на мойку.</p>
+				<p>Для мойки автомобилей мы используем только самые качественные моющие средства, они не только отмывают,но и защищают ваш автомобиль.</p>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-6">
 				<p><img src="img/himka.png" alt=""></p>
 				<p><strong>химчистка</strong></p>
-				<p>Мы применяем только безопасные средства для здоровья человека и самые продвинутые технологии в химчистке.Все наши уже оценили качество мойки 
+				<p>Мы применяем только безопасные средства для здоровья человека и самые продвинутые технологии в химчистке. Многие уже оценили качество мойки 
 и рекомендуют нас друзьям.</p>
 			</div>
 			<img src="img/stripes2.png" alt="" class="hidden-xs hidden-lg">
 			<div class="col-lg-3 col-md-6 col-sm-6">
 				<p><img src="img/polirovka.png" alt=""></p>
 				<p><strong>полировка</strong></p>
-				<p>Специалисты нашей автомойки прекрасно знают свою работу и за считанные минуты вернут блеск Вашему автомобилю.</p>
+				<p>Специалисты нашей автомойки прекрасно знают свою работу и владеют техникой нанесения различных покрытий, которые не только придают блеск Вашему автомобилю, но и защищают его от различных воздействий в процессе эксплуатации.</p>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-6">
 				<p><img src="img/cleaning.png" alt=""></p>
@@ -150,6 +150,9 @@
 			<div class="col-lg-6 col-xs-12  col-sm-6 yandexmap">
 				<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=FdGXkYygCgT-TSAYd5V269QeFnaN8flF&amp;width=500&amp;height=400&amp;lang=ru_RU&amp;sourceType=constructor&amp;scroll=true"></script>
 			</div>
+			<div class="col-sm-6 yandexmapmobile">
+				<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=b5H-jJ2da9MB-jNH4nqqyn7l-CGvRwkB&amp;width=320&amp;height=250&amp;lang=ru_RU&amp;sourceType=constructor&amp;scroll=true"></script>
+			</div>
 		</div>
 	</div>
 </div>
@@ -176,18 +179,41 @@
 
 </footer>
 
-    <!-- HTML-код модального окна -->
-    <div id="myModalBox" class="modal fade">
-      <div class="modal-dialog">
-        <div class="modal-content">
-          <!-- Заголовок модального окна -->
-          <div class="modal-header">
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-            <h4 class="modal-title">Форма обратного звонка</h4>
-          </div>
-          <!-- Основное содержимое модального окна -->
-          <div class="modal-body">
-               <form>
+
+<footer2 class="visible-sm">
+	<div class="container-fluid">
+    <div class="col-lg-4  logo">
+      <p><a href="index.html"><img src="img/logo-footer.png" alt=""></a></p>
+      <p class="hidden-xs hidden-sm">г.Тула, ул. Октябрьская д. 301а</p>
+    </div>
+    <div class="col-lg-2 col-xs-6 col-sm-6">
+    	<p class="hidden-xs hidden-sm">Автомойка</p>
+	    <p class="btn col-xs-6"><a  href="http://257-257.ru">Записаться на мойку</a></p>
+	    <p class="visible-xs visible-sm">Любое использование материала допускается только с согласия редакции.</p>
+    </div>
+    <div class="col-lg-2 col-xs-6 col-sm-6">
+    	<p class="hidden-xs hidden-sm">+7(4872) 257-257</p>
+ 		<p class="btn col-xs-6" onclick="callback()">Запросить звонок</p>    	
+ 		<p class="visible-xs visible-sm">© 2013. Все права <br>защищены</p>    	
+    </div>
+    <div class="col-lg-4 col-sm-4 copyrigth hidden-xs hidden-sm">
+    	<p><a href="http://webtop10.info"><img src="img/vektor.png" alt=""></a></p>
+    </div>
+  </div>
+</footer2>
+
+<!--     HTML-код модального окна
+<div id="myModalBox" class="modal fade">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      Заголовок модального окна
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        <h4 class="modal-title">Форма обратного звонка</h4>
+      </div>
+      Основное содержимое модального окна
+      <div class="modal-body">
+           <form id="send-form" action="ajax/send.php" method="POST">
 			      <div class="form-group">
 			        <label for="inputName">Имя:</label>
 			        <input type="name" class="form-control" id="inputName" placeholder="Введите имя">
@@ -197,16 +223,16 @@
 			      </div>
 			      </div>
 			      			   
-          </div>
-          <!-- Футер модального окна -->
-          <div class="modal-footer">
-            <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
-            <button type="submit" class="btn btn-primary">Отправить</button>
-          </div>
-         </form>
-        </div>
       </div>
+      Футер модального окна
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+        <button type="submit" class="btn btn-primary">Отправить</button>
+      </div>
+     </form>
     </div>
+  </div>
+</div> -->
      
 
 </body>
