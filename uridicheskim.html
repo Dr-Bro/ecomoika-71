@@ -21,7 +21,7 @@
     <div class="col-lg-5 col-md-5  col-sm-5  col-xs-12">
       <p><a href="index.html"><img src="img/logo.png" alt=""></a></p>
       <p><strong>г.Тула, ул. Октябрьская д.301 а</strong></p>
-      <p><a href="/contacts.html#contacts">Схема проезда</a></p>
+      <p><a href="contacts.html#contacts">Схема проезда</a></p>
     </div>
     <div class="col-lg-2 col-md-3 col-sm-3 col-xs-12 clock">
       <p class="hidden-xs"><img src="img/clock.png" alt=""></p>
@@ -30,7 +30,15 @@
     </div>
     <div class="col-lg-5 col-md-4 col-sm-4 col-xs-12">
       <p class="visible-xs"><strong>Контактный телефон:</strong></p>
-      <p class="phone"><a href="tel:+7487257257"><strong>+7(4872) 257-257</strong></a></p>
+      <p class="phone">
+        <a href="tel:+7487257257">
+          <strong>+7 (4872) 257-257</strong>
+        </a>
+        <br>
+        <a href="tel:+79539507676">
+          <strong>+7 (953) 950-76-76</strong>
+        </a>
+      </p>
       <!-- <p class="col-xs-6 col-sm-12 col-lg-12"><a class="btn" onclick="callback()">Запросить звонок</a></p> -->
       <p class="col-xs-12 col-sm-12 col-lg-12"><a class="btn" href="http://257-257.ru">Запись On-line</a></p>
     </div>
@@ -76,27 +84,40 @@
 	</div>
 </div>
 <footer>
-	<div class="container-fluid">
+  <div class="container-fluid">
     <div class="col-lg-4 col-sm-4 logo">
       <p><a href="index.html"><img src="img/logo-footer.png" alt=""></a></p>
       <p class="hidden-xs">г.Тула, ул. Октябрьская д. 301а</p>
     </div>
     <div class="col-lg-2 col-xs-6 col-sm-2">
-    	<p class="hidden-xs">Автомойка</p>
-	    <p class="btn col-xs-6"><a  href="http://257-257.ru">Записаться на мойку</a></p>
-	    <p class="visible-xs">Любое использование материала допускается только с согласия редакции.</p>
+      <p class="hidden-xs">+7 (953) 950-76-76</p>
+      <p class="btn col-xs-6"><a  href="http://257-257.ru">Записаться на мойку</a></p>
+      <p class="visible-xs">Любое использование материала допускается только с согласия редакции.</p>
     </div>
     <div class="col-lg-2 col-xs-6 col-sm-2">
-    	<p class="hidden-xs">+7(4872) 257-257</p>
- 		<p class="btn col-xs-6" onclick="callback()">Запросить звонок</p>    	
- 		<p class="visible-xs">© 2013. Все права <br>защищены</p>    	
+      <p class="hidden-xs">+7 (4872) 257-257</p>
+    <!-- <p class="btn col-xs-6" onclick="callback()">Запросить звонок</p>       -->
+    <p class="visible-xs">© 2013. Все права <br>защищены</p>      
     </div>
     <div class="col-lg-4 col-sm-4 copyrigth hidden-xs">
-    	<p><a href="http://webtop10.info"><img src="img/vektor.png" alt=""></a></p>
+      <p>Социальные сети:
+        <a href="http://webtop10.info">
+          </a>
+          <i class="fa fa-vk fa-2x" aria-hidden="true"></i>
+          <i class="fa fa-instagram fa-2x" aria-hidden="true"></i>
+      </p>
+      <p><a href="http://webtop10.info"><img width="100px" src="img/vektor.png" alt=""></a></p>
     </div>
+  </div>
+  <div class="container-fluid" style="font-size: 9px;">
+        <p class="">© 2013. Все права защищены</p> 
+        <p class="">Любое использование материала допускается только с согласия редакции.</p>
+ 
   </div>
 
 </footer>
+
+
 <footer2 class="visible-sm">
   <div class="container-fluid">
     <div class="col-lg-4  logo">
@@ -119,38 +140,6 @@
   </div>
 </footer2>
 
-    <!-- HTML-код модального окна -->
-    <div id="myModalBox" class="modal fade">
-      <div class="modal-dialog">
-        <div class="modal-content">
-          <!-- Заголовок модального окна -->
-          <div class="modal-header">
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-            <h4 class="modal-title">Форма обратного звонка</h4>
-          </div>
-          <!-- Основное содержимое модального окна -->
-          <div class="modal-body">
-               <form>
-			      <div class="form-group">
-			        <label for="inputName">Имя:</label>
-			        <input type="name" class="form-control" id="inputName" placeholder="Введите имя">
-			      <div class="form-group">
-			        <label for="inputPhone">Номер телефона:</label>
-			        <input type="phone" class="form-control" id="inputPhone" placeholder="Введите номер телефона">
-			      </div>
-			      </div>
-			      			   
-          </div>
-          <!-- Футер модального окна -->
-          <div class="modal-footer">
-            <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
-            <button type="submit" class="btn btn-primary">Отправить</button>
-          </div>
-         </form>
-        </div>
-      </div>
-    </div>
-     
 
 </body>
 </html>
